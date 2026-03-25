@@ -43,3 +43,9 @@ function typeWriterParagraph() {
 // Delay paragraph until title finishes
 const titleDuration = text.length * 90;
 setTimeout(typeWriterParagraph, titleDuration + 300);
+
+
+
+// PROJECTS
+
+
